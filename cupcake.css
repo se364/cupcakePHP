@@ -1,0 +1,53 @@
+body{
+    margin: 0 200px;
+    background-color: lightsalmon;
+}
+
+#main {
+    background-color: white;
+    height: 100%;
+    padding: 1em 5em 3em 5em;
+}
+
+fieldset {
+    /*margin-bottom: 1.5em;*/
+    border: 2px solid darkblue;
+    padding: 1em;
+}
+
+legend {
+    color: darkgreen;
+    font-variant: small-caps;
+    /*font-weight: bold;
+    font-size: 125%;*/
+}
+
+#submit {
+
+    background-color: darkblue;
+
+}
+
+#title {
+    background-color: chocolate;
+    color: white;
+}
+
+
+
+img {
+    width: 50%;
+    text-shadow: 2px 2px red;
+    margin: 80px 100px 100px 80px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: coral;
+
+
+
+}
+
+.err {
+
+    visibility: hidden;
+}
